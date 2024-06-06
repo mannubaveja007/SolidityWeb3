@@ -1,6 +1,6 @@
-Write a smart contract that defines and triggers 3-4 events
-Index the events so that they can be easily searched
-Capture these events in your JavaScript code
+// Write a smart contract that defines and triggers 3-4 events
+// Index the events so that they can be easily searched
+// Capture these events in your JavaScript code
 
 
 
